@@ -10,6 +10,15 @@ The research included:
 
 This repository focuses on transforming the original research dataset into a structured, analysis-ready format and extending it into a data analysis project.
 
+## Data Access
+The cleaned dataset is available in CSV format:
+- `data/AP_STUDENT_STRESS_CSV.csv`
+
+This format allows for easy use in:
+- Python (pandas)
+- SQL databases
+- Power BI / Tableau
+
 ## Future Work
 
 - Integrate external datasets on student stress to compare AP students with broader populations
